@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rylderoliveira
+- 👀 I’m interested in Python and Goland
+- 🌱 I’m currently learning Django
+- 💞️ I’m looking to collaborate on projects that use Python with main language
