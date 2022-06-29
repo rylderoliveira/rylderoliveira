@@ -22,5 +22,3 @@
   ![Snake animation](https://github.com/rylderoliveira/rylderoliveira/blob/output/github-contribution-grid-snake.svg)
  
 </div>
- 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=rylderoliveira&repo=rylderoliveira&theme=react)](https://github.com/rylderoliveira/rylderoliveira)
