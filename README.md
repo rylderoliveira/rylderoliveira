@@ -1,5 +1,5 @@
 ## Hi there, Welcome to my profile
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/rylderoliveira/rylderoliveira/blob/output/github-contribution-grid-snake.gif)
 <div align="center">
   <a href="https://github.com/rylderoliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rylderoliveira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
